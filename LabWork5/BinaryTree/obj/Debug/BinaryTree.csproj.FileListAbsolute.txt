@@ -1,0 +1,44 @@
+D:\ycheba\c#(2sem)\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\ycheba\c#(2sem)\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+D:\ycheba\c#(2sem)\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\ycheba\c#(2sem)\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.AssemblyReference.cache
+D:\ycheba\c#(2sem)\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.SuggestedBindingRedirects.cache
+D:\ycheba\c#(2sem)\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Form1.resources
+D:\ycheba\c#(2sem)\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+D:\ycheba\c#(2sem)\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.cache
+D:\ycheba\c#(2sem)\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+D:\ycheba\c#(2sem)\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+D:\ycheba\c#(2sem)\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+D:\Учеба\Технология программирования\Лабораторная работа\laba_5ya\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\Учеба\Технология программирования\Лабораторная работа\laba_5ya\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+D:\Учеба\Технология программирования\Лабораторная работа\laba_5ya\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+D:\Учеба\Технология программирования\Лабораторная работа\laba_5ya\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.AssemblyReference.cache
+D:\Учеба\Технология программирования\Лабораторная работа\laba_5ya\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\Технология программирования\Лабораторная работа\laba_5ya\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Form1.resources
+D:\Учеба\Технология программирования\Лабораторная работа\laba_5ya\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+D:\Учеба\Технология программирования\Лабораторная работа\laba_5ya\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.cache
+D:\Учеба\Технология программирования\Лабораторная работа\laba_5ya\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+D:\Учеба\Технология программирования\Лабораторная работа\laba_5ya\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+D:\Учеба\Технология программирования\Лабораторная работа\laba_5ya\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\denis\учёба\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\denis\учёба\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\denis\учёба\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\denis\учёба\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.AssemblyReference.cache
+C:\Users\denis\учёба\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\учёба\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Form1.resources
+C:\Users\denis\учёба\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\denis\учёба\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.cache
+C:\Users\denis\учёба\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\denis\учёба\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\denis\учёба\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\mazaf\OneDrive\Рабочий стол\Флешка\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\mazaf\OneDrive\Рабочий стол\Флешка\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\mazaf\OneDrive\Рабочий стол\Флешка\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\mazaf\OneDrive\Рабочий стол\Флешка\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.AssemblyReference.cache
+C:\Users\mazaf\OneDrive\Рабочий стол\Флешка\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.SuggestedBindingRedirects.cache
+C:\Users\mazaf\OneDrive\Рабочий стол\Флешка\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Form1.resources
+C:\Users\mazaf\OneDrive\Рабочий стол\Флешка\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\mazaf\OneDrive\Рабочий стол\Флешка\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.cache
+C:\Users\mazaf\OneDrive\Рабочий стол\Флешка\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\mazaf\OneDrive\Рабочий стол\Флешка\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\mazaf\OneDrive\Рабочий стол\Флешка\технологии програмирования\лабораторная 5 самостоятельная\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
